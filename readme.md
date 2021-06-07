@@ -11,3 +11,8 @@ ERC721 Token with:
 
 ## ⭐️ Where can I find it ?
 In the [website](https://marsgenesis.com)
+
+## 🔎 Contract verification
+Contract has been verified with Sourcify. You can check it [here](https://sourcify.dev/) by using the contract address: `0x467439207d53530505E5Eb40eDD6deBBAfF3e063`.
+
+Contract verification in Etherscan is in progress, as is not easy for complex smart-contracts, as stated here: [How is the Sourcify verifier different to verifying my contracts on EtherScan?](https://blog.soliditylang.org/2020/06/25/sourcify-faq/)
